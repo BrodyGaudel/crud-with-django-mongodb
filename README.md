@@ -22,13 +22,13 @@ pip install djongo
 4. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/gestion-produit-api.git
+git clone https://github.com/BrodyGaudel/crud-with-django-mongodb.git
 ```
 
 5. Naviguez vers le répertoire du projet :
 
 ```bash
-cd gestion-produit-api
+cd crud-with-django-mongodb
 ```
 
 6. Lancez le serveur de développement en exécutant :
